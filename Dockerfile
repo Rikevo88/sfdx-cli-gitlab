@@ -12,6 +12,7 @@ RUN apk add --update --no-cache  \
       nodejs-npm \
       openjdk8-jre \
       openssh-client \
+      openssl \
       perl \
       jq
 
